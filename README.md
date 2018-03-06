@@ -1,8 +1,9 @@
 # hello-world
-something new :)
 
-and some more tezxt from Radek
+
+and some more text from Radek
 
 :)
 
+and plus more
 
